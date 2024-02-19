@@ -1,0 +1,39 @@
+.table-container {
+  margin: 24px;
+}
+.vertical-flex {
+  display: flex;
+  flex-direction: column;
+}
+.horizantal-flex {
+  display: flex;
+  flex-direction: row;
+}
+.search-bar {
+  width: 400px;
+}
+.justify-space-between {
+  justify-content: space-between;
+}
+.horizantal-list li {
+  display: inline;
+  list-style: none;
+  padding-inline: 8px;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
+.button:hover {
+  border: none;
+  color: rgb(0, 186, 215);
+}
+.justify-center {
+  justify-content: center;
+}
+.division {
+  margin: 36px 0;
+}
+.table-division {
+  margin: 80px 32px 0px 32px;
+}
